@@ -21,6 +21,7 @@
 
   <PropertyGroup>
     <NoWarn>NU5104</NoWarn>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
